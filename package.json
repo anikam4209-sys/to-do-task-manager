@@ -1,0 +1,24 @@
+
+{
+  "name": "todo-task-manager",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive Todo Task Manager with task priorities, deadlines, search and filters",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "todo",
+    "task-manager",
+    "javascript",
+    "html",
+    "css",
+    "docker"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
